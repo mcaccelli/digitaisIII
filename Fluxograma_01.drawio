@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T16:10:30.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_5ygmypZH7kg9EsiQja1" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T16:11:55.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="L4DSLgRBNDe1CQJ2S7Wm" version="13.7.4" type="github">
   <diagram id="LBwsWg3DHm3VI3vRRIfu" name="Page-1">
-    <mxGraphModel dx="4063" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="2031" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,7 +675,7 @@
         <mxCell id="4zHIRzdhftlPSaTAwRZH-208" value="CARRY ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1001.25" y="1310" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4zHIRzdhftlPSaTAwRZH-210" value="7" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontFamily=Verdana;direction=north;size=0.34375;" vertex="1" parent="1">
+        <mxCell id="4zHIRzdhftlPSaTAwRZH-210" value="8" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontFamily=Verdana;direction=north;size=0.34375;" vertex="1" parent="1">
           <mxGeometry x="1128.75" y="1331.25" width="40" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="4zHIRzdhftlPSaTAwRZH-212" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
