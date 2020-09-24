@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T19:21:58.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="y2-hitZJ7o-ClekqICXy" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T19:22:29.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6t67lyZzFLwh_tbttMp8" version="13.7.5" type="github">
   <diagram id="LBwsWg3DHm3VI3vRRIfu" name="Page-1">
-    <mxGraphModel dx="2953" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="2085" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="4zHIRzdhftlPSaTAwRZH-2" value="" style="endArrow=none;html=1;fontFamily=Verdana;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1339.9999999999995" y="399.9999999999998" as="sourcePoint" />
+            <mxPoint x="1340" y="480" as="sourcePoint" />
             <mxPoint x="1339.9999999999995" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -727,7 +727,7 @@
           <mxGeometry x="671.25" y="1580" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4zHIRzdhftlPSaTAwRZH-375" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Declaração da matrícula&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="420" width="150" height="70" as="geometry" />
+          <mxGeometry x="1350" y="410" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gj_UiYe6hDX5CMhC0AR2-6" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="365" y="920" width="40" height="20" as="geometry" />
