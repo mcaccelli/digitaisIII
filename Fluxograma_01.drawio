@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T12:35:51.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Ra_2OBIJP7VmiDtk_o_R" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T14:20:46.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="AOfdpBPFAuaA60pdZCuX" version="13.8.0" type="github">
   <diagram id="LBwsWg3DHm3VI3vRRIfu" name="Page-1">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,7 +683,7 @@
         <mxCell id="Eudr2HJVChkKzcNzHswi-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Eudr2HJVChkKzcNzHswi-10" target="Eudr2HJVChkKzcNzHswi-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Eudr2HJVChkKzcNzHswi-10" value="D[10] &amp;lt;= R[1]&lt;br&gt;D[11] &amp;lt;= R[2]&lt;br&gt;D[12] &amp;lt;= R[3]&lt;br&gt;D[13] &amp;lt;= R[4]&lt;br&gt;D[14] &amp;lt;= R[5]&lt;br&gt;D[15] &amp;lt;= R[6]&lt;br&gt;D[16] &amp;lt;= R[7]" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;direction=south;" parent="1" vertex="1">
+        <mxCell id="Eudr2HJVChkKzcNzHswi-10" value="D[10] =&amp;gt; R[1]&lt;br&gt;D[11] = &amp;gt;R[2]&lt;br&gt;D[12] =&amp;gt; R[3]&lt;br&gt;D[13] =&amp;gt; R[4]&lt;br&gt;D[14] =&amp;gt; R[5]&lt;br&gt;D[15] =&amp;gt; R[6]&lt;br&gt;D[16] =&amp;gt; R[7]" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1025.25" y="1270" width="127" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Eudr2HJVChkKzcNzHswi-15" value="10" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
@@ -996,10 +996,10 @@
         <mxCell id="Eudr2HJVChkKzcNzHswi-304" value="D[10] &amp;lt;= R[1]&lt;br&gt;D[11] &amp;lt;= R[2]&lt;br&gt;D[12] &amp;lt;= R[3]&lt;br&gt;D[13] &amp;lt;= R[4]&lt;br&gt;D[14] &amp;lt;= R[5]&lt;br&gt;D[15] &amp;lt;= R[6]&lt;br&gt;D[16] &amp;lt;= R[7]" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;direction=south;" parent="1" vertex="1">
           <mxGeometry x="786.25" y="1495.5" width="127" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MNkQLVAvu3-CFnnmcH0J-1" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="MNkQLVAvu3-CFnnmcH0J-1" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1088.75" y="1620" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MNkQLVAvu3-CFnnmcH0J-2" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="MNkQLVAvu3-CFnnmcH0J-2" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1136.25" y="1550.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
